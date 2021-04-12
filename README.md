@@ -27,7 +27,7 @@
     |   |-- my-font.woff2
     |   |-- rgukt.png
     |   `-- style.css
-    `-- webpack.config.js
+    `-- webpack.config.js ```
  8. Regarding webpack configuration, refer webpack docs
  9. Handled fonts,images with loaders in webpack
- 10. publicPath plays crucial role in webpack ```
+ 10. publicPath plays crucial role in webpack
