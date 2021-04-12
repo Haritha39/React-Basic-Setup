@@ -1,6 +1,6 @@
 # React-Basic-Setup
 
-1. Create Folder ex : Test Project
+``` 1. Create Folder ex : Test Project
 2. Cd Test Project
 3. Install NPM AND NODE of latest version
 4. Run > npm init 
@@ -30,4 +30,4 @@
     `-- webpack.config.js
  8. Regarding webpack configuration, refer webpack docs
  9. Handled fonts,images with loaders in webpack
- 10. publicPath plays crucial role in webpack
+ 10. publicPath plays crucial role in webpack ```
