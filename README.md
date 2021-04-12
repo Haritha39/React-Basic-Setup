@@ -1,6 +1,6 @@
 # React-Basic-Setup
 
-``` 1. Create Folder ex : Test Project
+1. Create Folder ex : Test Project
 2. Cd Test Project
 3. Install NPM AND NODE of latest version
 4. Run > npm init 
@@ -10,6 +10,7 @@
      npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
 6. If any unhandled exception errors occurs , update node version simply.
 7. Create directory like this:
+ ``` 
     .
     |-- dist
     |   |-- 04ca8e9d7b0c7a5ab9d2.woff
