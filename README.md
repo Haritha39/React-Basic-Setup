@@ -3,11 +3,11 @@
 1. Create Folder ex : Test Project
 2. Cd Test Project
 3. Install NPM AND NODE of latest version
-         - Node: v14.16.1
-         - NPM: 6.14.12
-         - React: 17.0.2
-         - React-dom: 17.0.2
-         - Webpack: 5.30.0
+- Node: v14.16.1
+- NPM: 6.14.12
+- React: 17.0.2
+- React-dom: 17.0.2
+- Webpack: 5.30.0
    These are used in the development of this project.
 4. Run > npm init 
          1. Steps of questions will be asked
