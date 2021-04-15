@@ -3,15 +3,15 @@
 1. Create Folder ex : Test Project
 2. Cd Test Project
 3. Install NPM AND NODE of latest version
-         Node: v14.16.1
-         NPM: 6.14.12
-         React: 17.0.2
-         React-dom: 17.0.2
-         Webpack: 5.30.0
+         1. Node: v14.16.1
+         2. NPM: 6.14.12
+         3. React: 17.0.2
+         4. React-dom: 17.0.2
+         5. Webpack: 5.30.0
    These are used in the development of this project.
 4. Run > npm init 
-         a) Steps of questions will be asked
-         b) Package.json will be created
+         1. Steps of questions will be asked
+         2. Package.json will be created
 5. Install basic requirements:
      npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
 6. If any unhandled exception errors occurs , update node version simply.
