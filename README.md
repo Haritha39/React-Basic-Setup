@@ -13,7 +13,7 @@
 - Steps of questions will be asked
 - Package.json will be created
 5. Install basic requirements:
-     npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
+``npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin ``
 6. If any unhandled exception errors occurs , update node version simply.
 7. Create directory like this:
  ``` 
